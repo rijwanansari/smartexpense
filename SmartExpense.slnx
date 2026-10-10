@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="SmartExpense.Api/SmartExpense.Api.csproj" />
+  <Project Path="SmartExpense.Application/SmartExpense.Application.csproj" />
+  <Project Path="SmartExpense.Domain/SmartExpense.Domain.csproj" />
+  <Project Path="SmartExpense.Infrastructure/SmartExpense.Infrastructure.csproj" />
+  <Project Path="SmartExpense.Tests/SmartExpense.Tests.csproj" />
+</Solution>

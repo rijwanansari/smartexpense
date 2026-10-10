@@ -1,0 +1,17 @@
+/Users/rijwanansari/rijwan/smartexpense/SmartExpense.Infrastructure/bin/Debug/net10.0/SmartExpense.Infrastructure.deps.json
+/Users/rijwanansari/rijwan/smartexpense/SmartExpense.Infrastructure/bin/Debug/net10.0/SmartExpense.Infrastructure.dll
+/Users/rijwanansari/rijwan/smartexpense/SmartExpense.Infrastructure/bin/Debug/net10.0/SmartExpense.Infrastructure.pdb
+/Users/rijwanansari/rijwan/smartexpense/SmartExpense.Infrastructure/bin/Debug/net10.0/SmartExpense.Application.dll
+/Users/rijwanansari/rijwan/smartexpense/SmartExpense.Infrastructure/bin/Debug/net10.0/SmartExpense.Domain.dll
+/Users/rijwanansari/rijwan/smartexpense/SmartExpense.Infrastructure/bin/Debug/net10.0/SmartExpense.Application.pdb
+/Users/rijwanansari/rijwan/smartexpense/SmartExpense.Infrastructure/bin/Debug/net10.0/SmartExpense.Domain.pdb
+/Users/rijwanansari/rijwan/smartexpense/SmartExpense.Infrastructure/obj/Debug/net10.0/SmartExpense.Infrastructure.csproj.AssemblyReference.cache
+/Users/rijwanansari/rijwan/smartexpense/SmartExpense.Infrastructure/obj/Debug/net10.0/SmartExpense.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rijwanansari/rijwan/smartexpense/SmartExpense.Infrastructure/obj/Debug/net10.0/SmartExpense.Infrastructure.AssemblyInfoInputs.cache
+/Users/rijwanansari/rijwan/smartexpense/SmartExpense.Infrastructure/obj/Debug/net10.0/SmartExpense.Infrastructure.AssemblyInfo.cs
+/Users/rijwanansari/rijwan/smartexpense/SmartExpense.Infrastructure/obj/Debug/net10.0/SmartExpense.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/rijwanansari/rijwan/smartexpense/SmartExpense.Infrastructure/obj/Debug/net10.0/SmartExp.EE46303C.Up2Date
+/Users/rijwanansari/rijwan/smartexpense/SmartExpense.Infrastructure/obj/Debug/net10.0/SmartExpense.Infrastructure.dll
+/Users/rijwanansari/rijwan/smartexpense/SmartExpense.Infrastructure/obj/Debug/net10.0/refint/SmartExpense.Infrastructure.dll
+/Users/rijwanansari/rijwan/smartexpense/SmartExpense.Infrastructure/obj/Debug/net10.0/SmartExpense.Infrastructure.pdb
+/Users/rijwanansari/rijwan/smartexpense/SmartExpense.Infrastructure/obj/Debug/net10.0/ref/SmartExpense.Infrastructure.dll
