@@ -1,0 +1,29 @@
+# .NET build output (includes generated DLLs, PDBs, and intermediate files)
+[Bb]in/
+[Oo]bj/
+[Aa]rtifacts/
+
+# Test and coverage output
+[Tt]est[Rr]esults/
+coverage/
+coverage.*
+*.coverage
+*.coveragexml
+
+# Visual Studio and JetBrains IDE state
+.vs/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# macOS metadata
+.DS_Store
+.AppleDouble
+.LSOverride
